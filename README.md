@@ -15,6 +15,7 @@ A macos desktop app that aims to boost your productivity using Electron.
 - Todo List
 - Weekly & monthly planner
 - AI bot
+- Project management
 - Email notification
 
 ## Tools used
